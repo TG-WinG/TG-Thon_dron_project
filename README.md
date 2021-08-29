@@ -1,2 +1,2 @@
-# TG-Thon_dron_project
+# TG-Thon_drone_project
 final drone code
